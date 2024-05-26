@@ -1,6 +1,6 @@
 # untitled2
 
-A new Flutter project.
+猿部落在ios 可以下载到 安卓区在http://chengxuyuanbuluo.cn/app-release.apk 可以下载到
 
 ## Getting Started
 
