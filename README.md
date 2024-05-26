@@ -1,6 +1,8 @@
 # untitled2
 
-猿部落在ios 可以下载到 安卓区在http://chengxuyuanbuluo.cn/app-release.apk 可以下载到
+猿部落在ios 可以下载到 安卓区在http://chengxuyuanbuluo.cn/app-release.apk 可以下载到 难点在于自研im系统
+后端是go 后台是vue 移动端flutter
+已积累800+ 用户
 
 ## Getting Started
 
