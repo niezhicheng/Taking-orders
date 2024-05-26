@@ -1,0 +1,31 @@
+Target dependency graph (11 targets)
+Target 'Pods-Runner' in project 'Pods'
+➜ Explicit dependency on target 'FMDB' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'Reachability' in project 'Pods'
+➜ Explicit dependency on target 'Toast' in project 'Pods'
+➜ Explicit dependency on target 'connectivity' in project 'Pods'
+➜ Explicit dependency on target 'fluttertoast' in project 'Pods'
+➜ Explicit dependency on target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'path_provider_foundation' in project 'Pods'
+➜ Explicit dependency on target 'shared_preferences_foundation' in project 'Pods'
+➜ Explicit dependency on target 'sqflite' in project 'Pods'
+Target 'sqflite' in project 'Pods'
+➜ Explicit dependency on target 'FMDB' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'shared_preferences_foundation' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'path_provider_foundation' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'fluttertoast' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'Toast' in project 'Pods'
+Target 'connectivity' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'Reachability' in project 'Pods'
+Target 'Toast' in project 'Pods' (no dependencies)
+Target 'Reachability' in project 'Pods' (no dependencies)
+Target 'Flutter' in project 'Pods' (no dependencies)
+Target 'FMDB' in project 'Pods' (no dependencies)
